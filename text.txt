@@ -4,6 +4,8 @@
 
 
 
-This is our original text in the remote repo + our local repo text plus nothing else 
+
+This is our original text in the remote repo + our local repo text + Our BranchA text
+
 
 
