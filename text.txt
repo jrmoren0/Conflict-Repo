@@ -5,11 +5,11 @@
 
 
 
-<<<<<<< HEAD
+
 This is our original text in the remote repo plus our local repo text plus Our BranchA text $$$$$
-=======
+
 This is our original text in the remote repo + our local repo text + Our BranchA text??????
->>>>>>> 30c77fa7aaab493356fa8e5fbddba9ce401143bc
+
 
 
 
